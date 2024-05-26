@@ -1,6 +1,6 @@
 app-id: org.kryogenix.utm_no
 runtime: org.gnome.Platform
-runtime-version: '42'
+runtime-version: '46'
 sdk: org.gnome.Sdk
 command: utm-no
 
